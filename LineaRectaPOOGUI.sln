@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineaRectaPOOGUI", "LineaRectaPOOGUI.csproj", "{BA33B93E-B93F-4130-A6BF-F668A26AB35D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA33B93E-B93F-4130-A6BF-F668A26AB35D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA33B93E-B93F-4130-A6BF-F668A26AB35D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA33B93E-B93F-4130-A6BF-F668A26AB35D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA33B93E-B93F-4130-A6BF-F668A26AB35D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A55CDBFF-E981-4DFB-A85A-F94674924C3E}
+	EndGlobalSection
+EndGlobal
